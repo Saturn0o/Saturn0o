@@ -65,9 +65,9 @@
 ## Projects
 
 ```txt
-ai-job-hunter        -> AI-assisted job search automation
-pixel-task-manager   -> Retro-style task manager
-backend-api          -> .NET backend API
+FuzzyLogicWashingMachine        -> Simulation using fuzzy logic control systems
+ARTNeuralNetwork     -> Adaptive Resonance Theory neural network implementation
+
 ```
 
 ---
