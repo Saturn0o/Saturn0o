@@ -57,7 +57,7 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Saturn0o/Saturn0o/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Saturn0o/Saturn0o/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
