@@ -15,12 +15,6 @@
 
 ## 💻 About Me
 
-```txt
-> Initializing developer profile...
-> Loading skills ██████████ 100%
-> Status: Ready for deployment
-```
-
 * 🚀 **Full-Stack Developer** experienced in building robust systems, from E-commerce platforms to manufacturing KPI dashboards.
 * 🧠 **AI Enthusiast**, experimenting with local LLMs and developing predictive models for real-world optimization.
 * 🐧 **Linux Power User** (CachyOS) and hardware tinkerer.
