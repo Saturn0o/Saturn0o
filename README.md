@@ -5,25 +5,24 @@
 </p>
 
 <h3 align="center">
-    Elias Avila |  Computer Systems Engineer 
-   <b>Build:</b> Full-Stack / .NET Core / Local AI <br>
+    Elias Avila | Computer Systems Engineer <br>
+    Full-Stack / .NET Core / Local AI <br>
   <b>Languages:</b> ES (Native), EN (B2) <br>
-  🎯 <b>Current Quest:</b> Landing a Junior Software Dev job
 </h3>
 
 ---
 
-## 💻 About Me
+##  About Me
 
-* 🚀 **Full-Stack Developer** experienced in building robust systems, from E-commerce platforms to manufacturing KPI dashboards.
-* 🧠 **AI Enthusiast**, experimenting with local LLMs and developing predictive models for real-world optimization.
-* 🐧 **Linux Power User** (CachyOS) and hardware tinkerer.
-* 📊 Passionate about data visualization and ensuring data completeness for accurate productivity metrics.
-* ☕ Coffee-driven workflow with a love for pixel art and retro aesthetics.
+*  **Full-Stack Developer** experienced in building robust systems, from E-commerce platforms to manufacturing KPI dashboards.
+*  **AI Enthusiast**, experimenting with local LLMs and developing predictive models for real-world optimization.
+*  **Linux Power User** (CachyOS) and hardware tinkerer.
+*  Passionate about data visualization and ensuring data completeness for accurate productivity metrics.
+*  Coffee-driven workflow with a love for pixel art and retro aesthetics.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -40,7 +39,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -52,7 +51,7 @@
 
 ---
 
-## 📊 Stats & Contribution Graph
+##  Stats & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saturn0o&show_icons=true&theme=radical" width="48%" />
@@ -67,23 +66,12 @@
   </picture>
 </p>
 
----
 
-## 🔁 Loop
-
-```txt
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saturn0o&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <i>Stay grinding. Stay building.</i>
+  <i>"A future is not given to you. It is something you must take for yourself.".</i>
 </p>
