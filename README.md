@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">
-  🕹️ <b>Player:</b> Elias Avila | <b>Class:</b> Computer Systems Engineer <br>
-  ⚙️ <b>Build:</b> Full-Stack / .NET Core / Local AI <br>
-  🌍 <b>Base:</b> Torreón, MX | <b>Languages:</b> ES (Native), EN (B2) <br>
+    Elias Avila |  Computer Systems Engineer 
+   <b>Build:</b> Full-Stack / .NET Core / Local AI <br>
+  <b>Languages:</b> ES (Native), EN (B2) <br>
   🎯 <b>Current Quest:</b> Landing a Junior Software Dev job
 </h3>
 
